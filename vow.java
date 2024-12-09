@@ -11,7 +11,7 @@ class vowel
 	case 'a':
 		System.out.println("apple");break;
 	case 'e':
-		System.out.println("elephant");break;
+		System.out.println("elep");break;
 	case 'i':
 		System.out.println("iron");break;
 	case 'o':
