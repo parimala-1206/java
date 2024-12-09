@@ -21,7 +21,7 @@ class vowel
 	}
 	}
 	else
-		System.out.println("not a vowel");
+		System.out.println("it is not a vowel");
 
 	
 
